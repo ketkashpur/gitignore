@@ -1,3 +1,7 @@
+# Ignore single file
 new-file.txt
-
+#Ignore all files in tre bin directory
 bin/
+
+# Ignore add .tmp files
+*.tmp
