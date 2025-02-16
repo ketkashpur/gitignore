@@ -2,4 +2,6 @@ Some contents in the fle
 
 One more line here
 
-One more edit
+One more edit 
+
+bla-bla-bla
